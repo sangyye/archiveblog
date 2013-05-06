@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Links 04-05-2010
+date: 2010-5-4
+comments: true
+categories: 
+- links
+- Uncategorized
+---
+<p>Links of the week</p>
+<div class="gmail_quote">
+<ul>
+<li>
+<a href="http://www.csync.org/" target="_blank">http://www.csync.org/</a> ein super sync-Programm für den User</li>
+<li>
+<a href="http://prll.sourceforge.net/" target="_blank">http://prll.sourceforge.net/</a> einfach die eigenen Skripte parallel laufen lassen</li>
+<li>
+<a href="http://perlcritic.org/" target="_blank">http://perlcritic.org/</a> Eigene Perl-Skripte einfach mal kritisieren lassen (meckert auf Wunsch in verschiedenen Stärken)</li>
+<li>
+<a href="http://norvig.com/python-iaq.html" target="_blank">http://norvig.com/python-iaq.html</a>  The Python IAQ: The Infrequently Answered Questions. Sagt eigentlich alles.</li>
+</ul>
+</div>

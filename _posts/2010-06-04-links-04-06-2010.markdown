@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Links 04-06-2010
+date: 2010-6-4
+comments: true
+categories: 
+- links
+- Uncategorized
+---
+<p>Links of the week</p>
+<ul>
+<li>
+<a href="http://flask.pocoo.org">http://flask.pocoo.org</a> aus der Webseite <em>"Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions"</em> Stimme zu :-D</li>
+<li>
+<a href="http://www.sqlalchemy.org/">http://www.sqlalchemy.org/</a> eine Erweiterung für Python die einem beim Arbeiten mit Datenbanken unter die Arme greift.</li>
+<li>
+<a href="http://lesscss.org/">http://lesscss.org/</a> ergänzt css um ein paar tolle Sachen, man generiert aus den less-Files seine css-Files. *Testen*</li>
+<li>
+<a href="http://diveintohtml5.org/">http://diveintohtml5.org/</a> Interessantes Online-Buch wer sich schonmal html5 ansehen will, werde es wohl mal lesen wenn ich mal Zeit habe.</li>
+<li>
+<a href="http://hatta-wiki.org/">http://hatta-wiki.org/</a> ein kleines in Python geschriebenes wiki für den lokalen Einsatz, besitzt ein Tray-Icon und speichert in ein Mercurial-Repo. Sieht eigentlich nicht schlecht aus.</li>
+</ul>
+<p>Have Fun</p>

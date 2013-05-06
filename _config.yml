@@ -1,0 +1,16 @@
+name: Blog Archiv
+pygments: true
+
+#site configuration
+url: http://sangyye.net/pub/archiv/
+permalink: /:year/:month/:title/
+plugins: _plugins
+baseurl: /pub/archiv
+#Author
+author: Christian Vervoorts
+short: I do things
+email: info@sangyye.de
+
+#social things
+github: sangyye
+twitter: sangyye

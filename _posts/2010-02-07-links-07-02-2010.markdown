@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: Links 07-02-2010
+date: 2010-2-7
+comments: true
+categories: 
+- links
+---
+Links of the Week<br /><ul><li><a href="http://fffff.at/google-streetcar-berlin/">GPS-Sender am Google-Streetcar in Berlin</a><br />Hehe, jetzt haben sie das Google-Streetcar erwischt.</li><li><a href="http://factoryjoe.com/blog/2009/11/16/the-death-of-the-url/">The Death of the URL</a><br /> Ein interessanter Artikel über den bevorstehenden Tod der URL. Unbedingt lesen!</li><li><a href="http://www.mollify.org/index.php">Mollify</a><br />Eine coole Down-/Upload-Software für den eignen Webserver</li><li><a href="http://www.heise.de/newsticker/meldung/Bericht-Post-plant-DE-Mail-fuer-20-Cent-923738.html">Post plant DE-Mail fuer 20 Cent pro Mail</a><br /> Dazu muss ich wohl nichts sagen. Pure Geld-Macherei<br /></li></ul>

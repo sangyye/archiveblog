@@ -1,0 +1,15 @@
+---
+layout: default
+title: Your New Jekyll Site
+---
+
+<div id="home">
+<p>Dies ist nur ein statisches Archiv meiner alten Blogposts, ich habe einen <a href="http://sangyye.de">neuen Blog</a>.</p>
+
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
