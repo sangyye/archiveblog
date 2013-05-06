@@ -19,7 +19,6 @@ Als erstes richtet man sich nun das aktuelle Ruby ein (ich entnehme das mal der 
 export PATH=/package/host/localhost/ruby-1.9.3/bin:$PATH
 export PATH=$HOME/.gem/ruby/1.9.1/bin:$PATH
 __EOF__
-
 [helga@helium ~]$ . ~/.bash_profile
 {% endhighlight %}
 
@@ -31,7 +30,6 @@ Wir werden ein simple Hello World Datei installieren, weil ich denke daran wird 
 [helga@helium ~]$ mkdir -p ~/web
 [helga@helium ~]$ cat <<'__EOF__' > ~/web/hello.rb
 require 'sinatra'
-
 get '/' do
   "Hello World!"
 end
@@ -58,17 +56,13 @@ So jetzt müssen wir nur noch den kleinen Sinatra Skript ausführen. Dazu nehmen
 {% highlight bash %}
 [helga@helium ~]$ cat <<__EOF__ > ~/fcgi-bin/HelloSinatra 
 #!/bin/sh
-
 # This is needed to find gems installed with --user-install
 export HOME=$HOME
-
 # Include our profile to get Ruby 1.9.3 included in our PATH
 . \$HOME/.bash_profile
-
 # This makes Rails/Rack think we're running under FastCGI. WTF?!
 # See ~/.gem/ruby/1.9.1/gems/rack-1.2.1/lib/rack/handler.rb
 export PHP_FCGI_CHILDREN=1
-
 # Get into the project directory and start the Rails server
 cd \$HOME/web
 exec rackup

@@ -2,10 +2,10 @@ name: Blog Archiv
 pygments: true
 
 #site configuration
-url: http://sangyye.net/pub/archiv/
+url: localhost:4000
 permalink: /:year/:month/:title/
 plugins: _plugins
-baseurl: /pub/archiv
+#baseurl: /
 #Author
 author: Christian Vervoorts
 short: I do things
