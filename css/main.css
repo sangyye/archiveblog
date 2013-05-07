@@ -57,7 +57,7 @@ ul.posts li {
 
 ul.posts span {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
+  font-family: "Cutive Mono", "Courier New", monospace;
   font-size: 80%;
 }
 
@@ -120,7 +120,7 @@ ul.posts span {
 }
 
 .site .footer .contact a {
-  color: #8085C1;
+  color: #de6262;
 }
 
 .site .footer .rss {
