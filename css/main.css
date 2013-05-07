@@ -34,6 +34,13 @@ table {
   font: 100%;
 }
 
+blockquote {
+  color: #848484;
+  font-style: italic;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
 /*****************************************************************************/
 /*
 /* Home
@@ -163,3 +170,9 @@ ul.posts span {
 #post pre.terminal code {
   background-color: #333;
 }
+/*
+#post img {
+  position: absolute;
+  margin: auto;
+}
+*/
