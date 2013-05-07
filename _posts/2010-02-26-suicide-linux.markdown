@@ -9,4 +9,4 @@ categories:
 - python
 - github
 ---
-Hallo zusammen,<br />ich habe diesen coolen Link gefunden <a href="http://qntm.org/suicide">http://qntm.org/suicide</a><br />Ich fand die Idee sehr cool und habe spasses halber mal einen Skript geschrieben der die einstellungen vornimmt.<br /> Man kann ihn <a href="https://github.com/sangyye/Suicide-Linux-Script">hier</a> auf github finden.<br />Wer mutig ist, testet ihn mal :-)<p />Have Fun<br />Christian
+Hallo zusammen,<br />ich habe diesen coolen Link gefunden <a href="http://qntm.org/suicide">http://qntm.org/suicide</a><br />Ich fand die Idee sehr cool und habe spasses halber mal einen Skript geschrieben der die einstellungen vornimmt.<br /> Man kann ihn <a href="http://git.sangyye.net/Suicide-Linux-Script.git/">hier</a> auf meinem git finden.<br />Wer mutig ist, testet ihn mal :-)<p />Have Fun<br />Christian

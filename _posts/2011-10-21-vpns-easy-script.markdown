@@ -11,7 +11,7 @@ auf meinem Server habe ich nun mal ein VPN laufen. Und weil ich den Aufruf von V
 
 Ich präsentiere meinen kleinen VPN Skript:
 
-{% gist 1304114 vpn %}
+{% gist 1304114 %}
 
 Die Bedienung ist eigentlich einfach. Ihr ladet euch den Skript runter. Dann passt ihr den ConfigPfad oben an. Dieser kann auf einen Ort eurer Wahl zeigen. Bei mir ist es ~/.openvpn. In diesen Ordner legt ihr pro VPN zu dem ihr euch verbinden wollt einen Ordner an mit dem Name eures VPN. In meinem Beispiel nun "tollesvpn". In den Ordner packt ihr eurer client.conf und die keys von dem VPN.
 

@@ -9,7 +9,7 @@ categories:
 - rapnews
 - wikileaks
 ---
-<iframe width="853" height="480" src="http://www.youtube-nocookie.com/embed/hl4NlA97GeQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="853" height="480" src="http://www.youtube-nocookie.com/embed/hl4NlA97GeQ" frameborder="0"> </iframe>
 
 Sehr cooles Video
 

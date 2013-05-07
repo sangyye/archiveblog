@@ -7,6 +7,6 @@ categories:
 - katzen
 - youtube
 ---
-<iframe width="853" height="480" src="http://www.youtube-nocookie.com/embed/tNe81P81PLk" frameborder="0" allowfullscreen></iframe>
+<iframe width="853" height="480" src="http://www.youtube-nocookie.com/embed/tNe81P81PLk" frameborder="0"> </iframe>
 
 Katzen und Wasser vertragen sich halt nicht :-D

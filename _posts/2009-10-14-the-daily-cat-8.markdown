@@ -7,6 +7,11 @@ categories:
 - foto
 - katzen
 ---
-Hey <br />meine Katzenbilder. <br />Viel Spass <p /> Christian<p>
+Hey,
+meine Katzenbilder.
+Viel Spass
+
+Christian
+
 {% img /static/wpdata/2010/12/cat101.jpg %}
 {% img /static/wpdata/2010/12/cat1131.jpg %}

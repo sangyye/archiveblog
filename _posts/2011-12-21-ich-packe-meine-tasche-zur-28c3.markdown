@@ -26,7 +26,7 @@ Beides echt nicht zu unterschätzende Vorteile.
 
 *  Fotos
 
-Ja ich wurde mehrmals drauf angesprochen. Ich sollte Fotos machen, damit die daheim gebliebenen was davon haben. Jo mache ich ;-) Ich wollte auch [PhotoShow](http://www.photoshow-gallery.com/) auf meinem Server kloppen (ihr werde die install dann [hier](pics.abakus.me) finden). Das Ding geht dann heute oder morgen online, also wenn die Domain nix anzeigt ist das noch normal. Da kann ich dann Abends wenn ich noch Lust habe (oder ehr morgens) vom Hotel aus die Fotos rein laden. Mission erfüllt :-)
+Ja ich wurde mehrmals drauf angesprochen. Ich sollte Fotos machen, damit die daheim gebliebenen was davon haben. Jo mache ich ;-) Ich wollte auch [PhotoShow](http://www.photoshow-gallery.com/) auf meinem Server kloppen (ihr werde die install dann [hier](http://pics.abakus.me) finden). Das Ding geht dann heute oder morgen online, also wenn die Domain nix anzeigt ist das noch normal. Da kann ich dann Abends wenn ich noch Lust habe (oder ehr morgens) vom Hotel aus die Fotos rein laden. Mission erfüllt :-)
 
 Also ich habe mal grob umrissen was ich da so mitnehmen werde, meine Vorbereitung ist diesmal nicht ganz so groß, ich wollte noch ein altes Handy mitnehmen um das GSM Netz auf der 28c3 mal zu testen. Ein paar Kabel, witziges Geekstuff und Co. Ich freue mich einfach auf das Event, nette Vorträge und Co. Ein guter Freund von mir kommt diese Jahr mit, wird seine erste C3.
 

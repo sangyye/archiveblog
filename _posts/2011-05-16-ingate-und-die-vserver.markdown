@@ -11,32 +11,43 @@ Hallo zusammen,
 
 habe gerade eine Mail von Ingate bekommen. Das sind die, die mal eine Verlosung hatten und wo ich einen Vserver gewonnen hatte (<a title="Ingate.de Verschenkt" href="http://blog.abakus-world.de/2010/06/ingate-de-verschenkt/" target="_blank">hier</a> &amp; <a title="Der vServer ist da" href="http://blog.abakus-world.de/2010/06/der-vserver-ist-da/" target="_blank">hier</a>).
 Die Sache ist nun die das in der Mail folgendes Stand:
-<blockquote><span style="font-style: italic;">Wir möchten uns noch einmal bei allen Teilnehmern bedanken, insbesondere für die hilfreichen Verbesserungsvorschläge, die wir von einigen Nutzern erhalten haben.</span>
 
-Diese Verbesserungsvorschläge sind direkt in die Weiterentwicklung unserer VServer mit eingeflossen. Wir freuen uns, in Kürze ein eigenes Control Panel mit zahlreichen neuen Funktionen vorstellen zu können.
+>Wir möchten uns noch einmal bei allen Teilnehmern bedanken,
+>insbesondere für die hilfreichen Verbesserungsvorschläge,
+>die wir von einigen Nutzern erhalten haben.
+>
+>Diese Verbesserungsvorschläge sind direkt in die Weiterentwicklung unserer VServer mit eingeflossen.
+>Wir freuen uns, in Kürze ein eigenes Control Panel mit zahlreichen neuen Funktionen vorstellen zu können.
+>
+>Dies bedeutet jedoch auch, dass wir die kostenlosen Test-VServer nicht weiter verlängern werden.
 
-Dies bedeutet jedoch auch, dass wir die kostenlosen Test-VServer nicht weiter verlängern werden.</blockquote>
 Aha, also heißt das durch das neue Control Panel wird mir also mein vServer gekündigt? Das ist aber nicht sehr fair. Besonders da eigentlich <a href="https://www.ingate.de/blog/2010/06/14/wir-verschenken-55-vserver/" target="_blank">hier</a> beim Blogeintrag zum Wettbewerb steht:
-<blockquote><em><strong>Wie lange kann man den VServer kostenlos behalten?</strong>
-</em>So lange man möchte. Die Laufzeit ist nicht befristet. Einzige Voraussetzung ist, dass der Trackback währenddessen bestehen bleibt. Wer möchte, kann natürlich auch jederzeit in einen bezahlten Tarif wechseln oder den VServer kündigen.</blockquote>
+
+><em><strong>Wie lange kann man den VServer kostenlos behalten?</strong></em> So lange man möchte.
+>Die Laufzeit ist nicht befristet. Einzige Voraussetzung ist, dass der Trackback währenddessen bestehen bleibt. 
+>Wer möchte, kann natürlich auch jederzeit in einen bezahlten Tarif wechseln oder den VServer kündigen.
+
 Das ist nun aber nicht ganz so gut Ingate. Weil eigentlich will ich den schon gerne behalten. Nun weiter heißt es in der Mail:
-<blockquote>Die Entwicklung des neuen Panel ist fast vollkommen abgeschlossen und von dem Großteil der Nutzer haben wir leider überhaupt kein Feedback bekommen.</blockquote>
-Moment, kein Feedback? Das kann ich nun nicht nachvollziehen. Besonders da ich <a title="Ingate und das Gentoo Image" href="http://blog.abakus-world.de/2010/12/ingate-und-das-gentoo-image/" target="_blank">hier</a> geschrieben habe, bis heute keine Antwort bekommen habe und der Fehler nicht beseitigt wurde und dann von kein Feedback sprechen?
+
+>Die Entwicklung des neuen Panel ist fast vollkommen abgeschlossen und 
+>von dem Großteil der Nutzer haben wir leider überhaupt kein Feedback bekommen.
+
+Moment, kein Feedback? Das kann ich nun nicht nachvollziehen. Besonders da ich <a title="Ingate und das Gentoo Image" href="http://blog.sangyye.de/2010/12/ingate-und-das-gentoo-image/" target="_blank">hier</a> geschrieben habe, bis heute keine Antwort bekommen habe und der Fehler nicht beseitigt wurde und dann von kein Feedback sprechen?
 
 Also schlussendlich hat das für mich den schlechten Beigeschmack das Ingate nie vor hatte die Aktion lange Zeit laufen zu lassen. Besonders da auf mein Feedback in keinster Weise reagiert wurde. Ich versuche trotzdem mal eine Mail an Ingate zu schicken und zu erfragen was das soll. Aber viel erhoffe ich mir davon nicht.
 
 <strong>Kleines Update: </strong>Meine Mail ist nun auch raus.
-<blockquote>
-<div>Sehr geehrte Damen und Herren,</div>
-<div>ich möchte dieser Abschaltung entschieden Widersprechen. Nach den Bedingungen die sie in dem Wettbewerb gestellt haben (<a href="https://www.ingate.de/blog/2010/06/14/wir-verschenken-55-vserver/" target="_blank">https://www.ingate.de/blog/2010/06/14/wir-verschenken-55-vserver/</a>) Ich zitiere:</div>
-<div>
-<blockquote><em><strong>Wie lange kann man den VServer kostenlos behalten?</strong>
-</em>So lange man möchte. Die Laufzeit ist nicht befristet. Einzige Voraussetzung ist, dass der Trackback währenddessen bestehen bleibt. Wer möchte, kann natürlich auch jederzeit in einen bezahlten Tarif wechseln oder den VServer kündigen.</blockquote>
-<div>Bleibt der Vserver bestehen solang ich den Trackback beibehalte. Da von meiner Seite der Trackback besteht und sie die Laufzeit explizit nicht begrenzt haben, gehe ich davon aus das mein Vserver auch weiterhin bestehen bleibt.</div>
-<div>Mit Freundlichen Grüßen,</div>
-<div>Christian Vervoorts</div>
-</div></blockquote>
-<div>
+
+>Sehr geehrte Damen und Herren,
+>ich möchte dieser Abschaltung entschieden Widersprechen. Nach den Bedingungen die sie in dem Wettbewerb gestellt haben (<a href="https://www.ingate.de/blog/2010/06/14/wir-verschenken-55-vserver/" target="_blank">https://www.ingate.de/blog/2010/06/14/wir-verschenken-55-vserver/</a>) Ich zitiere:
+>
+><em><strong>Wie lange kann man den VServer kostenlos behalten?</strong></em>
+>So lange man möchte. Die Laufzeit ist nicht befristet. Einzige Voraussetzung ist, dass der Trackback währenddessen bestehen bleibt. Wer möchte, kann natürlich auch jederzeit in einen bezahlten Tarif wechseln oder den VServer kündigen.
+>Bleibt der Vserver bestehen solang ich den Trackback beibehalte. Da von meiner Seite der Trackback besteht und sie die Laufzeit explizit nicht begrenzt haben, gehe ich davon aus das mein Vserver auch weiterhin bestehen bleibt.
+>
+>Mit Freundlichen Grüßen,
+>Christian Vervoorts
+
 <div><strong>Kleines Update: </strong>Ich habe nun prompt Antwort erhalten</div>
 <blockquote>
 <div>
@@ -57,7 +68,5 @@ Hallo,
 <div>Mit freundlichen Grüßen,</div>
 <div>Christian Vervoorts</div>
 </div></blockquote>
-<div>
-<div>Ich halte euch weiter auf dem Laufenden...</div>
-</div>
-</div>
+
+Ich halte euch weiter auf dem Laufenden...

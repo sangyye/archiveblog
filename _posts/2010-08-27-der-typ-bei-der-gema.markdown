@@ -8,6 +8,6 @@ categories:
 - gema
 - youtube
 ---
-<iframe width="853" height="480" src="http://www.youtube-nocookie.com/embed/jiOTKjXZaYI" frameborder="0" allowfullscreen></iframe>
+<iframe width="853" height="480" src="http://www.youtube-nocookie.com/embed/jiOTKjXZaYI" frameborder="0"> </iframe>
 
 Ohne Worte :-D

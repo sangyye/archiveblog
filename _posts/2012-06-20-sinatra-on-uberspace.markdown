@@ -13,7 +13,6 @@ Also als erster Schritt mal die Doku durchwühlt (Habt ihr gewusst das Uberspace
 
 Als erstes richtet man sich nun das aktuelle Ruby ein (ich entnehme das mal der oben genannten Doku)
 
-
 {% highlight bash %}
 [helga@helium ~]$ cat << '__EOF__' >>  ~/.bash_profile
 export PATH=/package/host/localhost/ruby-1.9.3/bin:$PATH
@@ -21,7 +20,6 @@ export PATH=$HOME/.gem/ruby/1.9.1/bin:$PATH
 __EOF__
 [helga@helium ~]$ . ~/.bash_profile
 {% endhighlight %}
-
 
 Ich bleibe auch dabei den Nutzernamen helga und den Server helium zu nehmen. Das müsst Ihr dann entsprechend austauschen.
 Wir werden ein simple Hello World Datei installieren, weil ich denke daran wird das Prinzip auch verstanden.

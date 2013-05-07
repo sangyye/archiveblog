@@ -17,7 +17,7 @@ Aus meiner Sicht vollkommen unnötig. Jeder hat den ersten Band gelesen! Wir wis
 Ich hoffe dieser Teil wird besser weil ich leider sagen muss das der aktuelle Teil nicht lesenswert war. Und ich ihn nicht empfehlen kann (was ich bisher mit jedem Buch von Walter Moers getan habe, aber diesmal nicht) Ich fand es ermüden zu lesen, diese Ausschweifungen. Ich finde er hätte schneller zu dem Kommen sollen was wichtig ist,
 den Anfang der Geschichte, aber das tut er mit dem letzten Satz im Buch:
 
-"Hier fängt die Geschichte an."
+>Hier fängt die Geschichte an.
 
 Warum erst im Letzten Satz und nicht im Ersten? Ich bin enttäuscht, hoffe er holt das wieder raus, und gehe sogar davon aus das man dieses Buch überspringen und direkt das nächste kaufen sollte.
 
