@@ -2,7 +2,6 @@ name: Blog Archiv
 pygments: true
 
 #site configuration
-url: localhost:4000
 permalink: /:year/:month/:title/
 plugins: _plugins
 #baseurl: /
