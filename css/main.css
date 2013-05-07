@@ -56,6 +56,7 @@ ul.posts li {
 }
 
 ul.posts span {
+  margin-right: 1.75em;
   color: #aaa;
   font-family: "Cutive Mono", "Courier New", monospace;
   font-size: 80%;
