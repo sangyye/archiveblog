@@ -7,8 +7,8 @@ Blog is [here](http://sangyye.de)
 # License
 
 The following directories and their contents are Copyright Christian 
-Vervoorts. You may not reuse anything therein without my 
-permission:
+Vervoorts or their respective owners. You may not reuse anything 
+therein without permission:
 
  - _posts/
  - static/
