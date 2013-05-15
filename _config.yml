@@ -4,6 +4,8 @@ pygments: true
 #site configuration
 permalink: /:year/:month/:title/
 plugins: _plugins
+#set url for api.json
+production_url: http://blog.sangyye.de
 #baseurl: /
 #Author
 author: Christian Vervoorts
