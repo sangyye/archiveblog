@@ -8,4 +8,7 @@ categories:
 - fun
 ---
 {% img /static/wpdata/2010/12/media_httpstadtbremer_fhfth-scaled1000.jpg %}
-<p />Wie wahr, wie wahr. Sieht bei einigen sicher wirklich so aus (in Teilen ;-))<p />via <a href="http://stadt-bremerhaven.de/unser-modernes-leben/">Caschys Blog</a></p>
+
+Wie wahr, wie wahr. Sieht bei einigen sicher wirklich so aus (in Teilen ;-))
+
+via [Caschys Blog](http://stadt-bremerhaven.de/unser-modernes-leben)

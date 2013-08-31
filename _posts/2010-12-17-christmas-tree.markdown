@@ -8,7 +8,8 @@ categories:
 - fun
 - xkcd
 ---
-{% img /static/wpdata/2010/12/tree.png %}
+![Christmas Tree](/static/wpdata/2010/12/tree.png)
+
 :-D
 
-via <a href="http://xkcd.com/835/" target="_blank">xkcd</a>
+via [xkcd](http://xkcd.com/835/)

@@ -9,4 +9,8 @@ categories:
 - wohnung
 ---
 {% img /static/wpdata/2010/12/weekly_cat.jpg %}
-<p></p><div>Katzen kommen überall hin. Auch auf Schränke. Nur runter ist schwer.<p />Abakus<br /></div>
+
+Katzen kommen überall hin. Auch auf Schränke. Nur runter ist schwer.
+
+
+Abakus

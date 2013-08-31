@@ -8,4 +8,6 @@ categories:
 - xkcd
 ---
 {% img /static/wpdata/2010/12/media_httpimgsxkcdcom_copjx-scaled500.png %}
-<p /> <a href="http://xkcd.com/">http://xkcd.com/</a> <p /> Hrhr</p>
+via [http://xkcd.com/](http://xkcd.com/) 
+
+Hrhr ;-)
