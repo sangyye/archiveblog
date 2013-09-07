@@ -13,7 +13,7 @@ das ich auch verstehe?" Jo dachte ich mir, kann ich =)
 Was ist den eigentlich Piwik?
 -----------------------------
 Ihr alle kennt sicher Google Analytics und Co.? Piwik ist die Alternative zum selber hosten und damit müssen
-keine Daten ins Ausland geschickt werden. Es ist also möglich eine Datenerhebung zur Analyse der Webseite zu machen im Sinne der
+keine Daten ins Ausland geschickt werden. Es ist also möglich eine Datenerhebung zur Analyse der Webseite im Sinne der
 Benutzer und des Datenschutzes zu machen. Piwik ist in PHP geschrieben und es gibt viele Plugins für die Integration in verschieden Systeme.
 
 Wie bekomme ich das tolle Teil nun auf meinen Uberspace?
