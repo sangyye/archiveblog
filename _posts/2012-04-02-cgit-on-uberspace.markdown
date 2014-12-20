@@ -6,6 +6,8 @@ comments: true
 categories: [uberspace, git]
 ---
 
+Update: Eine aktualisierte Anleitung gibt es in meinem [Wiki](http://wiki.sangyye.de/howto/cgit_on_uberspace)!
+
 Hallo zusammen,
 ich will in diesem kurzen HowTo eben die Installation des Git Webinterface [cgit](http://hjemli.net/git/cgit/) auf einem [uberspace](https://uberspace.de) erklären. Ich danke Jonas von uberspace für seine Hilfe als ich nicht mehr weiter kam :-)
 <!-- more -->
