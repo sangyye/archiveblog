@@ -7,5 +7,5 @@ categories:
 - foto
 - katzen
 ---
-{% img /static/wpdata/2010/12/cat6.jpg %}
+![](/static/wpdata/2010/12/cat5.jpg)
 <p>Hey, <br />das heutige Katzenbild des Tages.<p /> Viel Spass <p /> Christian</p>

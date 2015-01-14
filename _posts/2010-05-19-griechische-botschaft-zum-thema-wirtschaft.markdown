@@ -9,5 +9,5 @@ categories:
 - internet
 - Griechenland
 ---
-{% img /static/wpdata/2010/12/2010-05-19-193719_1024x549_scrot-scaled1000.png %}
+![](/static/wpdata/2010/12/2010-05-19-193719_1024x549_scrot-scaled1000.png)
 Ohne Worte :-D

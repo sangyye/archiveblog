@@ -7,5 +7,5 @@ categories:
 - katzen
 - foto
 ---
-{% img /static/wpdata/2010/12/cat5.jpg %}
+![](/static/wpdata/2010/12/cat5.jpg)
 <p>Hier ist das aktuelle Katzenbild. <p /> Viel Spass <p /> Christian</p>

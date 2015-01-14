@@ -8,5 +8,6 @@ categories:
 - katzen
 ---
 Moin, <br />hier sind seit langem mal wieder 2 Katzenbilder. <p /> Gruß <br />Christian<p></p>
-{% img /static/wpdata/2010/12/cat10.jpg %}
-{% img /static/wpdata/2010/12/cat111.jpg %}
+
+![](/static/wpdata/2010/12/cat10.jpg)
+![](/static/wpdata/2010/12/cat111.jpg)

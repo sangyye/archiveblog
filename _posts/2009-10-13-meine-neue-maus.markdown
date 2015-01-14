@@ -12,6 +12,6 @@ sehr cool
 
 Christian
 
-{% img /static/wpdata/2010/12/mouse1.jpg %}
-{% img /static/wpdata/2010/12/mouse21.jpg %}
-{% img /static/wpdata/2010/12/mouse32.jpg %}
+![](/static/wpdata/2010/12/mouse1.jpg)
+![](/static/wpdata/2010/12/mouse21.jpg)
+![](/static/wpdata/2010/12/mouse32.jpg)

@@ -6,4 +6,4 @@ comments: true
 categories: 
 - foto
 ---
-{% img /static/wpdata/2010/12/sam_3199-scaled-1000.jpg %}
+![Sonnenuntergang](/static/wpdata/2010/12/sam_3199-scaled-1000.jpg)

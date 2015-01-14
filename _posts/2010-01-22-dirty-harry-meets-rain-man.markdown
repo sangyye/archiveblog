@@ -7,7 +7,7 @@ categories:
 - fun
 - xkcd
 ---
-{% img /static/wpdata/2010/12/media_httpimgsxkcdcom_copjx-scaled500.png %}
+![](/static/wpdata/2010/12/media_httpimgsxkcdcom_copjx-scaled500.png)
 via [http://xkcd.com/](http://xkcd.com/) 
 
 Hrhr ;-)

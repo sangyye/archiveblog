@@ -8,6 +8,6 @@ categories:
 - xkcd
 ---
 
-{% img /static/images/password_strength.png 740 601 Password Strength %}
+![](/static/images/password_strength.png "Password Strength")
 
 via [xkcd](http://xkcd.com/936/) :-D

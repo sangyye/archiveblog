@@ -7,8 +7,10 @@ categories:
 - foto
 - katzen
 ---
-Hey zusammen, <br />hier sind mal wieder ein paar Katzen-Bilder nach langer Zeit. <p /> Christian
-{% img /static/wpdata/2010/12/katze1_klein1.png %}
-{% img /static/wpdata/2010/12/katze2_klein1.png %}
-{% img /static/wpdata/2010/12/katze3_klein1.png %}
+Hey zusammen, <br />hier sind mal wieder ein paar Katzen-Bilder nach langer Zeit.
 
+Christian
+
+![](/static/wpdata/2010/12/katze1_klein1.png)
+![](/static/wpdata/2010/12/katze2_klein1.png)
+![](/static/wpdata/2010/12/katze3_klein1.png)

@@ -6,4 +6,4 @@ comments: true
 categories: [ fun, fotos ] 
 ---
 
-{% img /static/images/bewerbung.png 900 1200 Bewerbung %}
+![](/static/images/bewerbung.png "Bewerbung")

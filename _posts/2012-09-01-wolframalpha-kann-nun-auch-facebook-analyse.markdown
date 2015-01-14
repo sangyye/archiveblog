@@ -9,7 +9,7 @@ Nun kann die Suchmaschine, die meine Mathe Aufgaben für mich löst, auch Facebo
 einen Account bei WolframAlpha anlegt (was gratis ist) und dem WolframAlpha App Zugang zu eurem Facebook-Account gewährt, kann es losgehen.
 
 Ich habe das mal getestet und so sieht mein Post Type auf Facebook aus:
-{% img /static/images/WolframAlpha_facebook.png 'Meine Facebook Post Types' %}
+![](/static/images/WolframAlpha_facebook.png 'Meine Facebook Post Types')
 
 Ich mag ja Datenauswertung und ich musste das einfach Testen, es läuft sehr flüssig und man kann da viele verschieden Sachen anzeigen lassen und auswerten.
 Mir gefällt es :-) Das mit dem Datenschutz ist eine andere Frage, aber die Webseite sagt das die das eine Stunde cachen und danach löschen, was in meinen Augen ausreichend ist.

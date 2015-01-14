@@ -9,5 +9,7 @@ categories:
 - zombies
 ---
 <iframe width="640" height="480" src="http://www.youtube-nocookie.com/embed/sKIAV4ZORz4" frameborder="0"> </iframe>
-<p>via <a href="http://www.fixmbr.de/so-youre-a-zombie/">fixmbr</a></p>
-<p>Sehr cooles Video :-D</p>
+
+via [fixmbr](http://www.fixmbr.de/so-youre-a-zombie/)
+
+Sehr cooles Video :-D</p>

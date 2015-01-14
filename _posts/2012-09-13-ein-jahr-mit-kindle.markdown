@@ -17,7 +17,7 @@ Was je nach Zielort, einfach oder schwer sein kann. Also wurde der Kindle angesc
 (Ja das Kindle mit 3G und Keyboard ist schon ein cooles Teil ;)) Das ich überall Bücher online shoppen kann ist schon etwas was ich sehr mag. Ich war im Urlaub und
 es gab einen Artikel in der Zeit den ich lesen wollte. Leider war das nächste Kiosk mit der Zeit etwas weiter weg. Also habe ich meinen Kindle angeworfen und die
 Ausgabe online gekauft, schwupp war sie auf meinen Kindle und ich hatte ein Stress freies Frühstück.
-[{% img /static/images/kindle.jpg 'Kindle mit Zeit Artikle' %}](http://instagram.com/p/NG6uHhCmQO/)
+[![](/static/images/kindle.jpg 'Kindle mit Zeit Artikel')](http://instagram.com/p/NG6uHhCmQO/)
 
 Was ich am Kindle besonders schön finde ist, das ich Bücher nicht mehr unbedingt auf Papier habe, ich lese viele Fachbücher, und die haben mitunter schonmal so an die 1000 Seiten.
 Das meiste ist Referenz oder zum Nachschlagen, wodurch die meisten in meinem Regal vor sich hin stehen bis ich sie brauche. Das fällt größtenteils weg,

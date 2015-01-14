@@ -7,4 +7,4 @@ categories:
 - foto
 - perl
 ---
-{% img /static/wpdata/2010/12/url_adder-scaled50011.png %}
+![](/static/wpdata/2010/12/url_adder-scaled50011.png)

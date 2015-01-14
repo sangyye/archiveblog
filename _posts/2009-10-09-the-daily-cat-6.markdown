@@ -7,5 +7,5 @@ categories:
 - foto
 - katzen
 ---
-{% img /static/wpdata/2010/12/cat8.jpg %}
+![](/static/wpdata/2010/12/cat8.jpg)
 <p>Hey, <br />diese woche das letzte foto, montag kommt dann das nächste <p /> Christian</p>

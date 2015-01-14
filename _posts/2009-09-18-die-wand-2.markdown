@@ -7,5 +7,5 @@ categories:
 - umbau
 - wohnung
 ---
-{% img /static/wpdata/2010/12/wand2.jpg %}
+![](/static/wpdata/2010/12/wand2.jpg)
 <p>So sieht die Wand jetzt aus. Schon viel besser, oder? <br />(Dies ist das Werk von meinem Schatzi, ich hatte kaum was damit zutun) <br />&nbsp;<br />Abakus</p>

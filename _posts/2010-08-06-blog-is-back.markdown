@@ -6,4 +6,8 @@ comments: true
 categories: 
 - Uncategorized
 ---
-Hey zusammen,<p />wegen einen DDos auf meinen Anbieter <a href="http://posterous.com">posterous.com</a> war mein Blog nicht erreichbar. Durch wechsel der IP ist diese Problem aber nun gelöst.<p />Christian
+Hey zusammen,
+
+wegen einen DDos auf meinen Anbieter [posterous.com](http://posterous.com) war mein Blog nicht erreichbar. Durch wechsel der IP ist diese Problem aber nun gelöst.
+
+Christian

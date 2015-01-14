@@ -7,7 +7,7 @@ categories: [review, nexus7]
 ---
 Ich habe nun seit knapp 2 Monaten ein Nexus 7 und ich muss sagen, ich bin begeistert. In sofern ist das kein wirklich Review sondern ehr wie ich das Nexus 7 benutze und wieso ich das so toll finde ;-)
 
-{% img /static/images/nexus7.png %}
+![](/static/images/nexus7.png 'Nexus 7')
 
 Um es kurz zu sagen ich finde den Form Faktor wirklich gut. Durch den vorhanden Rand liegt das Ding gut in der Hand und lässt sich mit einer Hand ganz gut bedienen. Die Klangqualität der Speaker ist für ein Gerät dieser Größe Ordentlich und um mal ein Youtube-Video oder einen Serie zu sehen reicht es. Die Software ist nun mit Android 4.2 natürlich top Aktuell, wie zu erwarten von einem Tablet direkt von Google. Das Nexus 7 ist mein erstes Tablet und auch mein erstes Android Gerät und ich muss sagen das es mich schon mehr überzeugt als zum Beispiel das iPad. Für seine 199€ bekommt man ein Android-Tablet das genug Power hat für alle aktuellen Games die es im Market gibt (oder bei dem letzten HumbleBundle) und nix ruckelt oder harkt, dank Quadcore.
 

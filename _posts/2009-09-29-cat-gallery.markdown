@@ -11,6 +11,6 @@ Hier sind mal ein paar mehr Katzenbilder :-)
 
 Christian
 
-{% img /static/wpdata/2010/12/cat1.jpg %}
-{% img /static/wpdata/2010/12/cat21.jpg %}
-{% img /static/wpdata/2010/12/cat31.jpg %}
+![](/static/wpdata/2010/12/cat1.jpg)
+![](/static/wpdata/2010/12/cat21.jpg)
+![](/static/wpdata/2010/12/cat31.jpg)

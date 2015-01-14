@@ -9,6 +9,8 @@ categories:
 - fun
 - internet
 ---
-{% img /static/wpdata/2010/12/vlbar-scaled1000.jpg %}
-<p>:-D</p>
-<p>Hier gefunden:&nbsp;<a href="http://twitter.com/SickingJ/status/27218291336">http://twitter.com/SickingJ/status/27218291336</a>&nbsp;</p>
+![](/static/wpdata/2010/12/vlbar-scaled1000.jpg)
+
+:-D
+
+Hier gefunden [http://twitter.com/SickingJ/status/27218291336](http://twitter.com/SickingJ/status/27218291336)
