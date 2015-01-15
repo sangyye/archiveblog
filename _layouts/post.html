@@ -8,3 +8,13 @@ layout: default
 {{ content }}
 </div>
 
+{% if page.previous != null %}
+  <p style="text-align:right"><a href="{{ page.previous.url }}">Zurück</a></p>
+{% else %}
+  <p style="text-align:right">Zurück</p>
+{% endif %}
+{% if page.next != null %}
+  <p style="text-align:left"><a href="{{ page.next.url }}">Vor</a></p>
+{% else %}
+  <p style="text-align:left">Vor</p>
+{% endif %}
