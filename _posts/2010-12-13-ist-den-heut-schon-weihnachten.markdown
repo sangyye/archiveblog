@@ -9,4 +9,4 @@ categories:
 ---
 Nein, aber das kam mir so vor als ich heute die Post aufgemacht habe :-D
 
-![](/static/wpdata/2010/12/2010-12-13-15.32.21.jpg "Postsendung")
+![Postsendung](/static/wpdata/2010/12/2010-12-13-15.32.21.jpg "Postsendung")

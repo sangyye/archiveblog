@@ -7,7 +7,7 @@ categories:
 - internet
 - fun
 ---
-![](/static/wpdata/2010/12/media_httpstadtbremer_fhfth-scaled1000.jpg)
+![unser leben](/static/wpdata/2010/12/media_httpstadtbremer_fhfth-scaled1000.jpg)
 
 Wie wahr, wie wahr. Sieht bei einigen sicher wirklich so aus (in Teilen ;-))
 

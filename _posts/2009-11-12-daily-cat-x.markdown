@@ -7,5 +7,5 @@ categories:
 - foto
 - katzen
 ---
-![](/static/wpdata/2010/12/cats.jpg)
+![cats](/static/wpdata/2010/12/cats.jpg)
 <p>So jetzt mal ein Bild von Jule. <br />Beim Schlafen erwischt :-) <p /> Christian</p>

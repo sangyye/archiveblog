@@ -7,4 +7,12 @@ categories:
 - umfragen
 - Uncategorized
 ---
-<p>Hey zusammen, <br />teste eine kleine umfrage, also welche shell benutzt ihr so? <br /><div style="margin-top:5px;margin-bottom:15px;text-align:right;"><a href="http://polleverywhere.com"><img src="/images/services/live_poll_by_polleverywhere.png" /></a></div><p /> Also danke f&uuml;rs mitmachen. <p /> Greetz, <br />Christian</p>
+Hey zusammen,
+
+teste eine kleine umfrage, also welche shell benutzt ihr so?
+
+*Umfrage deaktiviert, Ergebnis verloren, Wahl egal*
+
+Also danke f&uuml;rs mitmachen.
+
+Greetz, <br />Christian

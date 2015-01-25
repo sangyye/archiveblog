@@ -10,7 +10,7 @@ categories:
 ---
 Hey zusammen,
 
-es gibt nun <a title="Wunderlist für Linux" href="http://www.6wunderkinder.com/blog/2011/09/20/two-new-members-join-the-family-assistly-and-wunderlist-for-linux/" target="_blank">Wunderlist für Linux</a>. Ich wollte das Teil direkt mal testen, aber unter Archlinux tat sich da nix. Supi, also ich das Ding mal in der Konsole gestartet und gesehen woran es liegt. Wenn es also laufen sollt müsst ihr in den wunderlist Ordner wechseln. Ein
+es gibt nun <a title="Wunderlist für Linux" href="https://web.archive.org/web/20120704095734/http://www.6wunderkinder.com/blog/2011/09/20/two-new-members-join-the-family-assistly-and-wunderlist-for-linux/" target="_blank">Wunderlist für Linux</a>(*Link geht zu archive.org*). Ich wollte das Teil direkt mal testen, aber unter Archlinux tat sich da nix. Supi, also ich das Ding mal in der Konsole gestartet und gesehen woran es liegt. Wenn es also laufen sollt müsst ihr in den wunderlist Ordner wechseln. Ein
 {% highlight bash %}
 cd runtime/1.2.0.RC3
 {% endhighlight %}

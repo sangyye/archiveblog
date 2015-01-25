@@ -7,5 +7,5 @@ categories:
 - internet
 - ipv4
 ---
-![](/static/wpdata/2010/12/restlaufzeit-scaled500.png)
+![iPv4 Adressen Restlaufanzeige](/static/wpdata/2010/12/restlaufzeit-scaled500.png)
 <div><span>Langsam wird es aber echt eng...</span></div>

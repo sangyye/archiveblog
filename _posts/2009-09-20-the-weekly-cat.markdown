@@ -8,7 +8,7 @@ categories:
 - foto
 - wohnung
 ---
-![](/static/wpdata/2010/12/weekly_cat.jpg)
+![weekly_cat](/static/wpdata/2010/12/weekly_cat.jpg)
 
 Katzen kommen überall hin. Auch auf Schränke. Nur runter ist schwer.
 

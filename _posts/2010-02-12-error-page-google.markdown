@@ -8,5 +8,5 @@ categories:
 - fun
 - google
 ---
-![](/static/wpdata/2010/12/google-scaled1000.png)
+![google error page](/static/wpdata/2010/12/google-scaled1000.png)
 Ohne Worte ;-)

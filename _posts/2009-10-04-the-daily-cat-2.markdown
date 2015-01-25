@@ -7,5 +7,5 @@ categories:
 - foto
 - katzen
 ---
-![](/static/wpdata/2010/12/cat4.jpg )
+![cat4](/static/wpdata/2010/12/cat4.jpg )
 <p>Hey, <br />hier ist mal wieder ein Foto von Chucky <p /> Christian</p>

@@ -12,4 +12,4 @@ Hey, <br />ich habe dieses lustige Bild bei [fefe](http://blog.fefe.de) gefunden
 
 Christian
 
-![](/static/wpdata/2010/12/media_httpwwwlowbirdcomdataimages200912e091207pettjpg_daulewkbyjsusha-scaled1000.jpg) 
+![Klimakonferenz](/static/wpdata/2010/12/media_httpwwwlowbirdcomdataimages200912e091207pettjpg_daulewkbyjsusha-scaled1000.jpg) 

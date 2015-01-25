@@ -7,7 +7,7 @@ categories: [s9y, microblogging]
 ---
 Endlich ist es soweit, ich habe Zeit mal meinen Microblog aufzusetzen.
 Ist schon eine Weile her das ich im [S9y InfoCamp](http://www.s9ycamp.info/archives/15-Ausgabe-14-Microblogging.html) drüber
-gesprochen habe. Nun ist es Zeit ich habe den [Blog schon aufgesetzt](http://m.sangyye.de).
+gesprochen habe. Nun ist es Zeit ich habe den Blog schon aufgesetzt (*den Microblog gibt es nicht mehr*).
 Nun wollte ich folgendes probieren mal umzusetzen:
 
 * Anpassen des Templates ( Ich nutze das 2k11 template und mal sehen wie das geht)

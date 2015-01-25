@@ -5,7 +5,7 @@ date: 2011-12-21 09:46
 comments: true
 categories: [ccc, 28c3] 
 ---
-Heute morgen habe ich mein Ticket zur 28c3 bekommen, was schon mal sehr gut ist. Dann ist mir aufgefallen das das ja schon nächste Woche ist... Moment, nächste Woche? Ich habe noch nix vorbereitet.... Paaaaanik!!! Nun, erst mal ganz ruhig. Also was steht noch an? Ich habe ja schon letztes Jahr ein paar Gedanken zur 27c3 niedergeschrieben (zu lesen [hier](http://blog.abakus-world.de/2010/11/erste-gedanken-zur-27c3/)). Darauf kann ich jetzt was aufbauen und aus meinen Erfahrungen vom 27c3 vielleicht was besser machen.
+Heute morgen habe ich mein Ticket zur 28c3 bekommen, was schon mal sehr gut ist. Dann ist mir aufgefallen das das ja schon nächste Woche ist... Moment, nächste Woche? Ich habe noch nix vorbereitet.... Paaaaanik!!! Nun, erst mal ganz ruhig. Also was steht noch an? Ich habe ja schon letztes Jahr ein paar Gedanken zur 27c3 niedergeschrieben (zu lesen [hier](http://blog.sangyye.de/2010/11/erste-gedanken-zur-27c3/)). Darauf kann ich jetzt was aufbauen und aus meinen Erfahrungen vom 27c3 vielleicht was besser machen.
 
 *  Laptop
 
@@ -26,7 +26,7 @@ Beides echt nicht zu unterschätzende Vorteile.
 
 *  Fotos
 
-Ja ich wurde mehrmals drauf angesprochen. Ich sollte Fotos machen, damit die daheim gebliebenen was davon haben. Jo mache ich ;-) Ich wollte auch [PhotoShow](http://www.photoshow-gallery.com/) auf meinem Server kloppen (ihr werde die install dann [hier](http://pics.abakus.me) finden). Das Ding geht dann heute oder morgen online, also wenn die Domain nix anzeigt ist das noch normal. Da kann ich dann Abends wenn ich noch Lust habe (oder ehr morgens) vom Hotel aus die Fotos rein laden. Mission erfüllt :-)
+Ja ich wurde mehrmals drauf angesprochen. Ich sollte Fotos machen, damit die daheim gebliebenen was davon haben. Jo mache ich ;-) Ich wollte auch [PhotoShow](http://www.photoshow-gallery.com/) auf meinem Server kloppen (ihr werde die install dann hier(*den Link gibt es nicht mehr*) finden). Das Ding geht dann heute oder morgen online, also wenn die Domain nix anzeigt ist das noch normal. Da kann ich dann Abends wenn ich noch Lust habe (oder ehr morgens) vom Hotel aus die Fotos rein laden. Mission erfüllt :-)
 
 Also ich habe mal grob umrissen was ich da so mitnehmen werde, meine Vorbereitung ist diesmal nicht ganz so groß, ich wollte noch ein altes Handy mitnehmen um das GSM Netz auf der 28c3 mal zu testen. Ein paar Kabel, witziges Geekstuff und Co. Ich freue mich einfach auf das Event, nette Vorträge und Co. Ein guter Freund von mir kommt diese Jahr mit, wird seine erste C3.
 

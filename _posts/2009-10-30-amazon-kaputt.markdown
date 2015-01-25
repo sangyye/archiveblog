@@ -13,4 +13,4 @@ Ist Amazon nun kaputt? :P
 
 Greetz Christian
 
-![](/static/wpdata/2010/12/2009-10-30-103607_1440x851_scr-png-scaled-1000.jpg)
+![Amazon kaputt](/static/wpdata/2010/12/2009-10-30-103607_1440x851_scr-png-scaled-1000.jpg)

@@ -9,7 +9,7 @@ categories:
 - fun
 - internet
 ---
-![](/static/wpdata/2010/12/vlbar-scaled1000.jpg)
+![Amigaaaaaa](/static/wpdata/2010/12/vlbar-scaled1000.jpg)
 
 :-D
 

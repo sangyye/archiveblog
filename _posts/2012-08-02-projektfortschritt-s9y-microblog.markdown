@@ -6,8 +6,7 @@ comments: true
 categories: [s9y, microblogging]
 ---
 So, ich habe etwas weiter gemacht. Aktuell läuft das Wordpress-App mit dem s9y
-Blog sehr gut. Habe schon ein Foto damit [hochgeladen](http://m.sangyye.de/index.php?/archives/2-Schnappschuss.html)
-und läuft ;)
+Blog sehr gut. Habe schon ein Foto damit hochgeladen (*den Link hier gibt es nicht mehr*) und läuft ;)
 
 Also kann ich den Punkt mobiles Bloggen von unterwegs mit dem iPhone abhaken. ✔
 

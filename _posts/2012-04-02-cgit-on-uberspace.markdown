@@ -9,7 +9,7 @@ categories: [uberspace, git]
 Update: Eine aktualisierte Anleitung gibt es in meinem [Wiki](http://wiki.sangyye.de/howto/cgit_on_uberspace)!
 
 Hallo zusammen,
-ich will in diesem kurzen HowTo eben die Installation des Git Webinterface [cgit](http://hjemli.net/git/cgit/) auf einem [uberspace](https://uberspace.de) erklären. Ich danke Jonas von uberspace für seine Hilfe als ich nicht mehr weiter kam :-)
+ich will in diesem kurzen HowTo eben die Installation des Git Webinterface [cgit](https://web.archive.org/web/20141226015418/http://hjemli.net/git/cgit/)(*Link geht zu archive.org, benutze das Update oben*) auf einem [uberspace](https://uberspace.de) erklären. Ich danke Jonas von uberspace für seine Hilfe als ich nicht mehr weiter kam :-)
 <!-- more -->
 
 Also zuerst muss ich sagen die Installation von cgit ist nicht ganz einfach, weil es das Kompilieren von Code und arbeiten auf der Shell verlangt. Daher sind minimale Kenntnisse schon nötig und jeder der sich das nicht zutraut sollte ehr Abstand von der Installation nehmen.
@@ -70,7 +70,7 @@ enable-commit-graph=1
 snapshots=tar.gz tar.bz zip
 {% endhighlight %}
 
-So jetzt sollte unter eurer uberspace Adresse (z.B. http://%ubernaut.%server.uberspace.de/git) euer leeres cgit ohne jede Repos zu sehen sein. Wie ihr eigne Repos hinzufügt könnt ihr nun in der [manpage zu cgitrc](http://hjemli.net/git/cgit/tree/cgitrc.5.txt) nachlesen.
+So jetzt sollte unter eurer uberspace Adresse (z.B. http://%ubernaut.%server.uberspace.de/git) euer leeres cgit ohne jede Repos zu sehen sein. Wie ihr eigne Repos hinzufügt könnt ihr nun in der [manpage zu cgitrc](https://web.archive.org/web/20120630160800/http://hjemli.net/git/cgit/tree/cgitrc.5.txt)(*Link geht zu archive.org, benutze das Update oben*) nachlesen.
 
 Cgit als subdomain
 ------------------

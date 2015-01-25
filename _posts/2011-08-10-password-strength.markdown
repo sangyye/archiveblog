@@ -8,6 +8,6 @@ categories:
 - xkcd
 ---
 
-![](/static/images/password_strength.png "Password Strength")
+![Password Strength](/static/images/password_strength.png "Password Strength")
 
 via [xkcd](http://xkcd.com/936/) :-D

@@ -14,7 +14,7 @@ ich habe mich mal heute mit meinem Blog auseinander gesetzt und war nicht wirkli
 
 Ab heute benutze ich [Octopress](http://octopress.org) Das ist eine coole statische Blogengine die in Ruby geschrieben wurde. Das heißt ich schreibe meinen Text in einen Editor meiner Wahl. Formatiere den mit [Markdown](http://daringfireball.net/projects/markdown) und fertig ist mein neuer Blogpost.
 
-Ich muss zugeben das ich dachte das wäre schon was mehr Aufwand. Aber es war mehr als simple. Ich habe in diesem [Blogpost](http://citizen428.net/blog/2011/09/26/goodbye-wordpress/) den Export Skript entdeckt. Also die Wordpress Export XML erstellt und dann den Skript drüber, fertig. Alle Posts können nun verwendet werden. Leider muss ich hier und da noch Korrekturen vornehmen.
+Ich muss zugeben das ich dachte das wäre schon was mehr Aufwand. Aber es war mehr als simple. Ich habe in diesem [Blogpost](https://web.archive.org/web/20130103163053/http://citizen428.net/blog/2011/09/26/goodbye-wordpress/)(*link geht zu archive.org*) den Export Skript entdeckt. Also die Wordpress Export XML erstellt und dann den Skript drüber, fertig. Alle Posts können nun verwendet werden. Leider muss ich hier und da noch Korrekturen vornehmen.
 
 Was ansteht ist also:
 

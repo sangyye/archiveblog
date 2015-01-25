@@ -6,4 +6,4 @@ comments: true
 categories: [ fun, fotos ] 
 ---
 
-![](/static/images/bewerbung.png "Bewerbung")
+![Bewerbung](/static/images/bewerbung.png "Bewerbung")

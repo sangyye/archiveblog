@@ -13,5 +13,5 @@ Viel Spass
 
 Christian
 
-![](/static/wpdata/2010/12/cat101.jpg)
-![](/static/wpdata/2010/12/cat1131.jpg)
+![cat101](/static/wpdata/2010/12/cat101.jpg)
+![cat1131](/static/wpdata/2010/12/cat1131.jpg)
