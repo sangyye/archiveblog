@@ -13,4 +13,4 @@ wie komplex das so ist, habe ich das mal eben selbst gemacht.
 
 {% gist 2916860 %}
 
-Wie sich raus stellte war es wirklich nicht schwer. Eine halbe Stunde später war das Ding fertig. Gut hier und da fehlen noch Dinge. Sicherheitsteile und Co. Aber es funktioniert soweit und ist ein eigener Webdienst, dank [sinatra](http://sinatrarb.com). Man gibt die URL in der Form `atom2rss.de/blog.sangyye.de/atom.xml` und bekommt seinen RSS-feed. atom2rss.de ist in dem Fall nur ein Beispiel auf welchem der Dienst laufen kann ;)
+Wie sich raus stellte war es wirklich nicht schwer. Eine halbe Stunde später war das Ding fertig. Gut hier und da fehlen noch Dinge. Sicherheitsteile und Co. Aber es funktioniert soweit und ist ein eigener Webdienst, dank [sinatra](http://www.sinatrarb.com). Man gibt die URL in der Form `atom2rss.de/blog.sangyye.de/atom.xml` und bekommt seinen RSS-feed. atom2rss.de ist in dem Fall nur ein Beispiel auf welchem der Dienst laufen kann ;)
