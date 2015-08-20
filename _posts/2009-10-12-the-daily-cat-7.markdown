@@ -8,4 +8,8 @@ categories:
 - katzen
 ---
 ![cat9](/static/wpdata/2010/12/cat9.jpg)
-<p>Hey, <br />die tägliche(n) Katze(n). <p /> Have fun <br />Christian</p>
+Hey,   
+die tägliche(n) Katze(n).
+
+Have fun   
+Christian

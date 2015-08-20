@@ -28,4 +28,7 @@ categories:
 <li>phpmyadmin</li>
 <li>und noch ein paar Kleinigkeiten</li>
 </ul>
-<p>Bisher muss ich sagen läuft das System rund, bisher bin ich nicht wirklich in Speicher- oder Platz-Probleme gekommen. Ich würde sagen für 4€ bekommt man ein relative einfaches System das für kleine Server-Belangen sicher vollkommende ausreichend ist. Das einzige was ich nicht so gelungen finde ist die 1 Jahr Vertragslaufzeit darüber sollte ingate nochmal nachdenken.<br /> Also ich bin bisher ziemlich zufrieden mit dem Angebot, habe aber meine Tests noch nicht abgeschlossen.<br />Als nächstes steht die Installation eines VPN-Servers und einer Monitoring-Software, mal sehen wie sich das System danach verhält.<p /> Bis dahin,<br />Christian</p>
+<p>Bisher muss ich sagen läuft das System rund, bisher bin ich nicht wirklich in Speicher- oder Platz-Probleme gekommen. Ich würde sagen für 4€ bekommt man ein relative einfaches System das für kleine Server-Belangen sicher vollkommende ausreichend ist. Das einzige was ich nicht so gelungen finde ist die 1 Jahr Vertragslaufzeit darüber sollte ingate nochmal nachdenken.<br /> Also ich bin bisher ziemlich zufrieden mit dem Angebot, habe aber meine Tests noch nicht abgeschlossen.<br />Als nächstes steht die Installation eines VPN-Servers und einer Monitoring-Software, mal sehen wie sich das System danach verhält.
+
+Bis dahin,   
+Christian</p>

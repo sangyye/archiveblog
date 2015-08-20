@@ -8,4 +8,7 @@ categories:
 - foto
 ---
 ![cat5](/static/wpdata/2010/12/cat5.jpg)
-<p>Hier ist das aktuelle Katzenbild. <p /> Viel Spass <p /> Christian</p>
+Hier ist das aktuelle Katzenbild.
+
+Viel Spass   
+Christian

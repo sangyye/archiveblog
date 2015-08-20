@@ -8,4 +8,8 @@ categories:
 - katzen
 ---
 ![cat7](/static/wpdata/2010/12/cat7.jpg)
-<p>Hey, <br />das aktuelle Katzenfoto. <p /> Have fun <br />Christian</p>
+Hey,   
+das aktuelle Katzenfoto.
+
+Have fun   
+Christian

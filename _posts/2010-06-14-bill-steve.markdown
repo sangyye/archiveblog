@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Bill & Steve
+title: Bill And Steve
 date: 2010-6-14
 comments: true
 categories: 
@@ -8,9 +8,9 @@ categories:
 - microsoft
 - youtube
 ---
-<iframe width="480" height="360" src="http://www.youtube-nocookie.com/embed/IY2j_GPIqRA" frameborder="0"> </iframe>
+<iframe width="480" height="360" src="http://www.youtube-nocookie.com/embed/IY2j_GPIqRA" frameborder="0"></iframe>
 
-Muss man nicht viel zu sagen, oder? :-D
-via <a href="http://www.fixmbr.de/we-love-microsoft/">F!XMBR</a>
+Muss man nicht viel zu sagen, oder? :-D   
+via [F!XMBR](http://www.fixmbr.de/we-love-microsoft/)
 
 Christian

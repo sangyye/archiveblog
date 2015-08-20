@@ -8,4 +8,8 @@ categories:
 - katzen
 ---
 ![cat5](/static/wpdata/2010/12/cat5.jpg)
-<p>Hey, <br />das heutige Katzenbild des Tages.<p /> Viel Spass <p /> Christian</p>
+Hey,   
+das heutige Katzenbild des Tages.
+
+Viel Spass   
+Christian
