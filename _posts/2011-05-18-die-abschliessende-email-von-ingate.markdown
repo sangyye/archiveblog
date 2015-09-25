@@ -10,6 +10,7 @@ categories:
 Moin,
 
 gestern Abend ist noch eine Email von Ingate gekommen. Ich zitiere:
+
 >Guten Tag,
 >
 >vielen Dank für Ihre eMail betreffend unsere VServer Blogaktion. Eines vorweg, wir möchten uns für die Unannehmlichkeiten und die unklare Formulierung im Ursprungspost entschuldigen. Allerdings handelt es sich nicht wie so viele behaupten um eine Schenkung und die Abschaltung wird definitiv zum genannten Termin erfolgen, da die komplette Plattform, auf der die Server aus der Blogaktion gehostet sind, abgeschaltet wird.
