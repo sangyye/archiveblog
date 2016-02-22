@@ -20,3 +20,4 @@ twitter: sangyye
 # Add plugins
 gems:
    - jekyll-sitemap
+   - jekyll-gist
