@@ -21,9 +21,9 @@
         <div class="container">
           <div class="site">
             <div class="header">
-              <h1 class="title"><a href="{{ site.baseurl }}">{{ site.name }}</a></h1>
-              <a class="extra" href="{{ site.baseurl }}">home</a>
-	      <a class="extra" href="{{ site.baseurl }}impressum/">impressum</a>
+              <h1 class="title"><a href="{{ "/" | prepend: site.baseurl }}">{{ site.name }}</a></h1>
+              <a class="extra" href="{{ "/" | prepend: site.baseurl }}">home</a>
+	      <a class="extra" href="{{ "/impressum/" | prepend: site.baseurl }}">impressum</a>
             </div>
      
                 {{ content }}
