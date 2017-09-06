@@ -4,7 +4,7 @@ name: Sangyyes Blog Archiv
 permalink: /:year/:month/:title/
 #set url for api.json
 production_url: http://blog.sangyye.de
-baseurl: /
+baseurl: 
 #Author
 author: Christian Vervoorts
 short: I do things
@@ -18,6 +18,6 @@ github: sangyye
 twitter: sangyye
 
 # Add plugins
-gems:
+plugins:
    - jekyll-sitemap
    - jekyll-gist
