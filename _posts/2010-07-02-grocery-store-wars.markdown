@@ -9,7 +9,7 @@ categories:
 - youtube
 ---
 
-<iframe width="640" height="480" src="http://www.youtube-nocookie.com/embed/hVrIyEu6h_E" frameborder="0"> </iframe>
+[https://www.youtube.com/watch?v=hVrIyEu6h_E](https://www.youtube.com/watch?v=hVrIyEu6h_E)
 
 Ich weiß, ich weiß, etwas älter. Habs aber gerade erst endeckt. (Danke [Daniel](http://keksbuster.posterous.com/))
 Sehr lustig.

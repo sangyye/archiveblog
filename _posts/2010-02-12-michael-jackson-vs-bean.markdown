@@ -7,6 +7,6 @@ categories:
 - fun
 - youtube
 ---
-<iframe width="853" height="480" src="http://www.youtube-nocookie.com/embed/asBTY34YMp4" frameborder="0"> </iframe>
+[https://www.youtube.com/watch?v=asBTY34YMp4](https://www.youtube.com/watch?v=asBTY34YMp4)
 
 Sehr cool :-)

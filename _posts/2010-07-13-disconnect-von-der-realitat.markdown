@@ -11,6 +11,6 @@ categories:
 ---
 Gerade endeckt.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/AWavvHJQ_Pc" frameborder="0" allowfullscreen></iframe>
+[https://www.youtube.com/watch?v=AWavvHJQ_Pc](https://www.youtube.com/watch?v=AWavvHJQ_Pc)
 
 Recht hat er ja :-D<br />(via [Daniel K.](http://www.dkr-speedline.de/))

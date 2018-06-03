@@ -8,7 +8,7 @@ categories:
 - google
 - youtube
 ---
-<iframe width="640" height="480" src="http://www.youtube-nocookie.com/embed/Et-XLO33fwc" frameborder="0"> </iframe>
+[https://www.youtube.com/watch?v=Et-XLO33fwc](https://www.youtube.com/watch?v=Et-XLO33fwc)
 
 hrhr :-D
 

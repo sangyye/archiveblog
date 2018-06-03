@@ -11,7 +11,57 @@ auf meinem Server habe ich nun mal ein VPN laufen. Und weil ich den Aufruf von V
 
 Ich präsentiere meinen kleinen VPN Skript:
 
-{% gist 1304114 %}
+{% highlight bash %}
+#!/bin/bash
+
+confdir='/home/abakus/.openvpn'
+
+function start_vpn()
+{
+	if [ ! -e /var/run/openvpn.pid ] ; then
+		openvpn --daemon --writepid /var/run/openvpn.pid --cd $2/$1 --script-security 2 --config $2/$1/*.conf
+	else
+		return 1
+	fi
+}
+function stop_vpn()
+{
+	if [ -e /var/run/openvpn.pid ] ; then
+		kill -SIGTERM `cat /var/run/openvpn.pid`
+		rm -f /var/run/openvpn.pid
+	else
+		return 1
+	fi
+}
+function toggle()
+{
+	if [ -e /var/run/openvpn.pid ] ; then
+		stop_vpn
+	else
+		start_vpn $1 $2
+	fi
+}
+
+[ -d $confdir/$1 ] || echo "Profile doesn't exist"
+
+if [ $2 ]; then
+	choice=$2
+else
+	choice='toggle'
+fi
+
+case $choice in
+	start)
+		start_vpn $1 $confdir || echo "Already up"
+		;;
+	stop)
+		stop_vpn || echo "Not up"
+		;;
+	*)
+		toggle $1 $confdir
+		;;
+esac
+{% endhighlight %}
 
 Die Bedienung ist eigentlich einfach. Ihr ladet euch den Skript runter. Dann passt ihr den ConfigPfad oben an. Dieser kann auf einen Ort eurer Wahl zeigen. Bei mir ist es ~/.openvpn. In diesen Ordner legt ihr pro VPN zu dem ihr euch verbinden wollt einen Ordner an mit dem Name eures VPN. In meinem Beispiel nun "tollesvpn". In den Ordner packt ihr eurer client.conf und die keys von dem VPN.
 

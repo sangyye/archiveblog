@@ -8,6 +8,6 @@ categories:
 - fun
 - youtube
 ---
-<iframe width="853" height="480" src="http://www.youtube-nocookie.com/embed/R55e-uHQna0" frameborder="0"> </iframe>
+(Das Video gibt es leider nicht mehr :( )
 
 Hrhr, die Werbung ist nicht schlecht :-D

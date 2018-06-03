@@ -9,8 +9,7 @@ categories:
 ---
 Da freut sich aber einer, über einen Punkt. (zufällig bei prosieben gesehen) 
 
-<a href="http://www.youtube.com/v/ntBdeuV-uqE&#038;hl=en&#038;fs=1">http://www.youtube.com/v/ntBdeuV-uqE&#038;hl=en&#038;fs=1</a>
+( Link geht leider nicht mehr :( )
 
 Christian
 
-Update: Link geht leider nicht mehr!

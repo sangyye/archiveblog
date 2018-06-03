@@ -8,7 +8,7 @@ categories:
 - microsoft
 - youtube
 ---
-<iframe width="480" height="360" src="http://www.youtube-nocookie.com/embed/IY2j_GPIqRA" frameborder="0"></iframe>
+[https://www.youtube.com/watch?v=IY2j_GPIqRA](https://www.youtube.com/watch?v=IY2j_GPIqRA)
 
 Muss man nicht viel zu sagen, oder? :-D   
 via [F!XMBR](http://www.fixmbr.de/we-love-microsoft/)

@@ -9,7 +9,7 @@ categories:
 - youtube
 - java
 ---
-<iframe width="853" height="480" src="http://www.youtube-nocookie.com/embed/lyt-Ss0j8NA" frameborder="0"> </iframe>
+(Video ist leider nicht mehr verfügbar :( )
 
 sehr cool. Nutze zwar kein Java lustig ist es trotzdem :-D
 via [Schockwellenreiter](http://www.schockwellenreiter.de/blog/2010/06/26/java-not-not/)

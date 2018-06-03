@@ -11,7 +11,8 @@ Und alle die noch nicht w&auml;hlen waren, bitte geht w&auml;hlen. Denn es ist Z
 
 als Anregung "Rette deine Freiheit":
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/OwrMroEiHj0" frameborder="0"> </iframe>
+[https://www.youtube.com/watch?v=OwrMroEiHj0](https://www.youtube.com/watch?v=OwrMroEiHj0)
+
 Ich werde hier noch berichten, denn ab 18 uhr wirds interessant.
 
 Christian

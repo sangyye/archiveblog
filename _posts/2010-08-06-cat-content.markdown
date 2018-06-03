@@ -9,7 +9,7 @@ categories:
 - youtube
 - katzen
 ---
-<iframe width="640" height="480" src="http://www.youtube-nocookie.com/embed/Q9NP-AeKX40" frameborder="0"> </iframe>
+[https://www.youtube.com/watch?v=Q9NP-AeKX40](https://www.youtube.com/watch?v=Q9NP-AeKX40)
 
 Das ist der Beweis das iPad ist für die Katz :-D
 

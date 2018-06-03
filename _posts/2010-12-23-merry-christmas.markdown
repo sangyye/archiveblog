@@ -14,4 +14,4 @@ Ich wünsche allen Lesern ein schönes Weihnachtsfest und einen guten Rutsch ins
 
 Und zum Schluss noch ein kleines Video um in Weihnachtsstimmung zu kommen.
 
-<iframe width="640" height="480" src="http://www.youtube-nocookie.com/embed/P-2MoS_YSAk" frameborder="0"> </iframe>
+[https://www.youtube.com/watch?v=P-2MoS_YSAk](https://www.youtube.com/watch?v=P-2MoS_YSAk)

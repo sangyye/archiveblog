@@ -8,8 +8,6 @@ categories:
 - internet
 - perso
 ---
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="376" height="245" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowScriptAccess" value="always" /><param name="src" value="http://www.ndr.de/flash/NDRPlayer.swf?id=extra2815" /><embed type="application/x-shockwave-flash" width="376" height="245" src="http://www.ndr.de/flash/NDRPlayer.swf?id=extra2815" allowscriptaccess="always"></embed></object>
-
 <a href="https://web.archive.org/web/20101219011311/http://www.ndr.de/fernsehen/sendungen/extra_3/videos/extra2815.html">http://www.ndr.de/fernsehen/sendungen/extra_3/videos/extra2815.html</a>(*Link geht jetzt zu archive.org*)
 Da sieht man wieder worum es eigentlich geht beim neuen Perso, ums Geld.
 
