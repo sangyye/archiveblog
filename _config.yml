@@ -8,7 +8,7 @@ baseurl:
 #Author
 author: Christian Vervoorts
 short: I do things
-email: info@sangyye.de
+email: info ät sangyye punkt de
 
 #exclude things
 exclude: [Gemfile, Gemfile.lock, CNAME, README.md]
